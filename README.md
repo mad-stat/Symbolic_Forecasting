@@ -18,8 +18,8 @@ Both models produce interpretable mathematical equations while maintaining stron
 
 ```
 SyNF-SyTF/
-├── data/                  # Input datasets
-├── external/eql/            # Minimal EQL-Pytorch dependency (Equation Learner)
+├── data/                    # Input datasets
+├── external/eql/            # Minimal dependency (Equation Learner)
 ├── notebooks/               # SyNF.ipynb and SyTF.ipynb
 ├── results/                 # Generated equations and predictions (gitignored)
 ├── scripts/                 # Utility scripts
