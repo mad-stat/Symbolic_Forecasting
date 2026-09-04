@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+sympy>=1.12
+
+# SyTF — symbolic regression (requires Julia; run pysr.install() once)
+pysr>=0.16
+
+# SyNF — Equation Learner via PyTorch Lightning
+torch>=2.0
+pytorch-lightning>=2.0
+
+# Evaluation
+darts>=0.27
+scipy>=1.10
+
+# Notebook support
+jupyter>=1.0
+ipykernel>=6.0
