@@ -64,8 +64,8 @@ The bundled file is a synthetic random walk (seed 42, starting at 0). For **exac
 
 Open and run from the repository root so paths resolve correctly:
 
-- `notebooks/SyNF.ipynb` — EQL training on San Juan weekly cases (lag 4, last 52 weeks test)
-- `notebooks/SyTF.ipynb` — PySR symbolic regression on simulated random walk (lag 1, 180 train / 20 test)
+- `notebooks/SyNF.ipynb` — training on San Juan weekly cases (lag 4, last 52 weeks test)
+- `notebooks/SyTF.ipynb` — SyTF on simulated random walk (lag 1, 180 train / 20 test)
 
 Outputs (equations, predictions, logs) are written under `results/`.
 
